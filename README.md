@@ -1,3 +1,3 @@
 # Into The Breach Quick Save & Load
-���ٴ浵����������Ĺ��ߡ�
-��̬����ˣ��Ҽ���
+快速存档读档、悔棋的工具。
+*心态玩崩了，我急了*
